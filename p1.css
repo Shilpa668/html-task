@@ -1,0 +1,35 @@
+
+
+
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif; /* Change the font */
+    margin: 20px; /* Add space around the page */
+}
+
+
+h1 {
+    color: #4CAF50; /* Green text color */
+    text-align: center; /* Center align the text */
+}
+
+
+p {
+    color: #555; /* Gray text */
+    font-size: 16px; /* Adjust text size */
+    line-height: 1.5; /* Add space between lines */
+}
+
+
+button {
+    background-color: #008CBA; /* Blue background color */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    cursor: pointer; /* Show pointer cursor on hover */
+    border-radius: 5px; /* Rounded corners */
+}
+
+button:hover {
+    background-color: #005F73; /* Darker blue when hovered */
+}
